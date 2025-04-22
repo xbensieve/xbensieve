@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xbensieve" alt="xbensieve" /></a> </p>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 💬 Ask me about **React, ASP.NET, and Nodejs**
 
