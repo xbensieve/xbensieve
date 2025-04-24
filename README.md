@@ -5,6 +5,7 @@
   💻 Full-stack enthusiast | ⚙️ System designer | 🚀 Always learning <br />
   I specialise in turning complex problems into elegant code and delivering real-world results.
 </p>
+<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="1200" height="600" title="Example GIF" />
 
 ### 👨‍💻 About Me
 
@@ -12,8 +13,6 @@
 - 💬 Ask me about **React, ASP.NET, Node.js, and full-stack web architecture**
 - 📫 Reach me at **bennguyen.contact@gmail.com**
 - ⚡ Quote: *"The present is a gift."* 🎁
-
----
 
 ### 🌐 Connect with Me
 
