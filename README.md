@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ben Nguyen 👋</h1>
-<h3 align="center">Senior Software Engineer | Full-Stack Developer | System Architect</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | System Architect</h3>
 
 <p align="center">
   I design and develop scalable, efficient, and maintainable software solutions across the full stack.<br/>
