@@ -1,24 +1,22 @@
-<h1 align="center">Hi, I'm Ben Nguyen 👋</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | System Architect</h3>
-
+<h1 align="center">Hi, I'm Ben Nguyen</h1>
+<h3 align="center">Software Engineer</h3>
 <p align="center">
-  I design and develop scalable, efficient, and maintainable software solutions across the full stack.<br/>
-  Passionate about clean architecture, modern DevOps practices, and continuous learning.
+  I'm a full-stack developer with a strong focus on frontend and backend development, database design, and system architecture. I enjoy learning new technologies, solving complex problems, and continuously thinking about how to scale projects efficiently. I’m passionate about applying practical solutions to real-world challenges and driving meaningful impact through technology.
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🔭 Currently focused on **.NET ecosystems and Cloud-Native applications**
-- 🧩 Strengths: **System Design, Web Architecture, DevOps, API Development**
-- 📫 Contact: [bennguyen.contact@gmail.com](mailto:bennguyen.contact@gmail.com)
-- 💬 Tech Stack Expertise: **React, ASP.NET, Node.js, TypeScript, Azure**
-- ⚡ Quote I live by: *"The present is a gift."*
+- Currently focused on **Web Development**
+- Strengths: **Full-Stack Development, Database Design, System Architecture**
+- Contact: [bennguyen.contact@gmail.com](mailto:bennguyen.contact@gmail.com)
+- Tech Stack Expertise: **React, ASP.NET, Node.js, TypeScript, Azure**
+- Quote I live by: *"The present is a gift."*
 
 ---
 
-## 👨‍💻 Things I Code With
+## Things I Code With
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,7 +33,7 @@
 
 ---
 
-## 🛠️ Tools & Deployment
+## Tools & Deployment
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,10 +47,18 @@
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/ben-nguyen-contact/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a>
   <a href="https://www.facebook.com/sheerhypocrisy14159/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" /></a>
   <a href="https://www.leetcode.com/dev-fstacker" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" /></a>
 </p>
+
+---
+
+<p align="left">I'm always open to new opportunities, collaborations, or just a good tech chat. Whether it's building scalable systems, solving tough problems, or exploring the latest technologies, I'm ready to contribute and grow.
+
+Thanks for reading!
+
+Feel free to reach out or connect with me!</p>
