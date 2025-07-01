@@ -53,7 +53,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/ben-nguyen-contact/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a>
-  <a href="https://www.facebook.com/sheerhypocrisy14159/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" /></a>
+ </a>
   <a href="https://www.leetcode.com/dev-fstacker" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" /></a>
 </p>
 
