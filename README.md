@@ -30,6 +30,13 @@ Passionate software developer with experience in building scalable and maintaina
   </tr>
 </table>
 
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xbensieve&theme=react-dark&area=true&line=00FF00&point=FFFF00&grid=true&height=200" alt="Contribution Graph" />
+</p>
+
+
 ---
 
 ## Skills
