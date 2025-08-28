@@ -56,5 +56,10 @@ Passionate software developer with experience in building scalable and maintaina
 - Tech discussions & knowledge sharing  
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=xbensieve&color=blue)
+![Followers](https://img.shields.io/github/followers/xbensieve?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/xbensieve?label=Total%20Stars&style=social)
+![Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/xbensieve)
+
 
 Thanks for visiting!  
