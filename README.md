@@ -41,18 +41,12 @@ Passionate software developer with experience in building scalable and maintaina
 
 ## Skills
 
-### Programming Languages
-- C#, JavaScript, TypeScript, SQL, Dart
-- HTML5, CSS3
-### Frameworks/	Platforms
-- ReactJS, NodeJS, NextJS
-- ASP.NET	MVC, Web API, MAUI, Blazor, WPF 
-- Entity	Framework  
-### Database Management Systems
-- MS SQL Server, MySQL, MongoDB
-### Version	Control
-- Git
-  
+| Programming Languages | Frameworks / Platforms |
+|------------------------|-------------------------|
+| - C#, JavaScript, TypeScript, SQL, Dart <br> - HTML5, CSS3 | - ReactJS, NodeJS, NextJS <br> - ASP.NET MVC, Web API, MAUI, Blazor, WPF <br> - Entity Framework |
+| **Database Management Systems** | **Version Control** |
+| - MS SQL Server <br> - MySQL <br> - MongoDB | - Git |
+
 ---
 
 ## Open to
